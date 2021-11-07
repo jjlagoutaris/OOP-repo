@@ -31,3 +31,26 @@
 # car1 = make_car('Subaru', 'Outback', color='Red', year=1996)
 #
 # print(car1)
+
+################### HOW TO IMPORT MODULES (BELOW) ##########################
+
+# from fibonacci_sequence import *
+#
+# fibonacci_sequence()
+#
+# from fibonacci_sequence import fibonacci_sequence
+#
+# fibonacci_sequence()
+#
+# from fibonacci_sequence import fibonacci_sequence as fs
+#
+# fs()
+#
+# import fibonacci_sequence
+#
+# fibonacci_sequence.fibonacci_sequence()
+#
+# import fibonacci_sequence as fs
+#
+# fs.fibonacci_sequence()
+
